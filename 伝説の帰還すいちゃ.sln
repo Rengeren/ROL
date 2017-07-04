@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "伝説の帰還すいちゃ.Plugins", "伝説の帰還すいちゃ.Plugins.csproj", "{114833F0-60DD-C32A-B5D9-FC99D6DBFC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "伝説の帰還すいちゃ", "伝説の帰還すいちゃ.csproj", "{CD8B08CE-08AD-499D-A71E-02DFFF5F8F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "伝説の帰還すいちゃ.Editor", "伝説の帰還すいちゃ.Editor.csproj", "{4E56CDFA-3035-7EBD-E1BA-73D0480FB61F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114833F0-60DD-C32A-B5D9-FC99D6DBFC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114833F0-60DD-C32A-B5D9-FC99D6DBFC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114833F0-60DD-C32A-B5D9-FC99D6DBFC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114833F0-60DD-C32A-B5D9-FC99D6DBFC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8B08CE-08AD-499D-A71E-02DFFF5F8F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8B08CE-08AD-499D-A71E-02DFFF5F8F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8B08CE-08AD-499D-A71E-02DFFF5F8F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8B08CE-08AD-499D-A71E-02DFFF5F8F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E56CDFA-3035-7EBD-E1BA-73D0480FB61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E56CDFA-3035-7EBD-E1BA-73D0480FB61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E56CDFA-3035-7EBD-E1BA-73D0480FB61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E56CDFA-3035-7EBD-E1BA-73D0480FB61F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
