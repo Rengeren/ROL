@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1a2830914c95a0644badfceddc3dc828
+timeCreated: 1483676754
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PoisonMark: {instanceID: 0}
+  - SwoonMark: {instanceID: 0}
+  - InfirmeMark: {instanceID: 0}
+  - SlowMark: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

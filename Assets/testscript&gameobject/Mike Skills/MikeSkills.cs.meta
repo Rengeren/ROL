@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: c34bbccbe4324ac44bdd29815d087dfe
+timeCreated: 1483863366
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MikeX1: {fileID: 1000012312129684, guid: 711469ebc8e0a634592dcf73cbc7d441, type: 2}
+  - MikeX2: {fileID: 1000011345806078, guid: 7a5958a4d805e04488fd433372e086c2, type: 2}
+  - MikeX_hit: {fileID: 1000011280897286, guid: 22d97171dd335944b92dc4a44090e4cf,
+      type: 2}
+  - Normal_SE: {fileID: 8300000, guid: 5722e45ad645f1e4e9206622d1c0dd92, type: 3}
+  - Normal_HitSE: {fileID: 8300000, guid: 8f5eed54e870274479b55b321e32ebe4, type: 3}
+  - MikeShift: {fileID: 1000012075328480, guid: 44babfa6fc9951d458bb185f5f3eaaab,
+      type: 2}
+  - MikeShift_hit: {fileID: 1000010234629922, guid: 6999d203e62117f4a8b7a975dab81b77,
+      type: 2}
+  - Shift_SE: {fileID: 8300000, guid: 25892be2f44a47647a8ee42e1fe50070, type: 3}
+  - Shift_HitSE: {fileID: 8300000, guid: b2d2ec18ab698fc408eadad9432c9c70, type: 3}
+  - MikeZ: {fileID: 1000011270613152, guid: acbd6b3ff89c24a42a7baf5980d22de5, type: 2}
+  - MikeZ_hit: {fileID: 1000010439379912, guid: f6ac8424faad8bb46927dc805e1f9d4e,
+      type: 2}
+  - MikeZ_start: {fileID: 1000014170924536, guid: 19c05e685a7144a4fa7655f0c2337914,
+      type: 2}
+  - Z_SE: {fileID: 8300000, guid: 57e31724c7e0eb148a7ecc757e2e340d, type: 3}
+  - Z_HitSE: {fileID: 8300000, guid: d79d545fa7796034fb5346e70758d696, type: 3}
+  - MikeCtrlShield: {fileID: 1000011045325732, guid: 0581abca8971f3c44995f97294688ce1,
+      type: 2}
+  - CtrlStart_SE: {fileID: 8300000, guid: 467559d6254acdb4d846e1b8f18c62dc, type: 3}
+  - MikeSpace: {fileID: 1000013025246404, guid: 3fc5cc22dc1b5f84e824bc3ee46064fb,
+      type: 2}
+  - Space_Hit: {fileID: 1000010794849608, guid: aac9ac667fc5d6443be3fb0dddabf513,
+      type: 2}
+  - SpaceStart_SE: {fileID: 8300000, guid: 9c393d1a640018e4fbb8e52206f37d55, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

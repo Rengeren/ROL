@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: e7f73dd44a53b914483e53744434dc7f
+timeCreated: 1484415512
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TargetMark: {fileID: 1000011822562768, guid: 53722954ab27e2e4dbc7140ed3a7012b,
+      type: 2}
+  - HelenaX: {fileID: 1000012754297082, guid: ba5111205d5a9d04fae8f01aa1f6bc9e, type: 2}
+  - XEff: {fileID: 1000012191319288, guid: 39c75db33234f1547ae67ac56dba7b28, type: 2}
+  - X_hit: {fileID: 1000010184337472, guid: f7c8d485af04cb04fb88979864cf86b6, type: 2}
+  - X_SE: {fileID: 8300000, guid: c60eaea4955a97c488d5ddbf5d0e2465, type: 3}
+  - X_HitSE: {fileID: 8300000, guid: 48260aab7f57b744f8992a77b59f8277, type: 3}
+  - HelenaShift: {fileID: 1000013457631934, guid: 680e031c97f1396468cf0f4eadb5193f,
+      type: 2}
+  - ShiftEff: {fileID: 1000011798444530, guid: 6ea5c9ef4d65bf34181d0af7e4300e4d, type: 2}
+  - Shift_SE: {fileID: 8300000, guid: fadaa678a151f4f44a7d5a31f3427242, type: 3}
+  - fire: {fileID: 1000011062151022, guid: f6c868b6fe9db5846b237fee1d6bad0c, type: 2}
+  - Z_hit: {fileID: 1000010282938374, guid: ecdadc63fb8943e4ca73b2a5afbaea46, type: 2}
+  - Z_SE: {fileID: 8300000, guid: f9390dd84a156cc4cad3f63ef55d852b, type: 3}
+  - Z_HitSE: {fileID: 8300000, guid: a542c58c0f2fd2747889dd76de0cd585, type: 3}
+  - Ice: {fileID: 1000012692876182, guid: 9864cfe5e29610c42808b3a9376b87ea, type: 2}
+  - HelenaCtrl: {fileID: 1000012807509650, guid: a9886dfd71ababb45b556e3264a2ac62,
+      type: 2}
+  - CtrlEff: {fileID: 1000013348333410, guid: d45eec4995f62b84b9c5e0c136f80e06, type: 2}
+  - Ctrl_hit: {fileID: 1000011544751824, guid: 0fb48b7585f0d0c4588d327995745bce, type: 2}
+  - Ctrl_SE: {fileID: 8300000, guid: 880440b28ddf20c4b9bb83fbbed5419d, type: 3}
+  - Ctrl_HitSE: {fileID: 8300000, guid: 1dd803b9b6259f04d99b9260f8ae462c, type: 3}
+  - HelenaSpace: {fileID: 1000013139953446, guid: f85a2eca74c7f4843ad4f0b44bf85568,
+      type: 2}
+  - SpaceEff: {fileID: 1000010750194740, guid: 01cd4656ba2563242a7b3afaa1227649, type: 2}
+  - Space_hit: {fileID: 1000014166699226, guid: 9c94545e7166d95469b74b45bcee7f16,
+      type: 2}
+  - Space_SE: {fileID: 8300000, guid: d5cc0d69b8915b24badf0812107be948, type: 3}
+  - Space_SE2: {fileID: 8300000, guid: a736fe174e1e4174caa2189d27b5a600, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

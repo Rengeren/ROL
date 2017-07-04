@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7bdc3d5c5341644abab8479fa7830fb
+timeCreated: 1483861586
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MikeZ_end: {fileID: 1000010678489202, guid: bf4c46125933c7b44a9b258881c9a0d6,
+      type: 2}
+  - Z_EndSE: {fileID: 8300000, guid: 12cc8c8bfb326064aa43b6accf0b0dcb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

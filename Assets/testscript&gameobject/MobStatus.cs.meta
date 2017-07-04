@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6671bbdfd195554f89a9175483cb96e
+timeCreated: 1482949660
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - InfirmeMark: {fileID: 1000012873628656, guid: f4acde8bb01c2fc4285daa50f6bf3e6e,
+      type: 2}
+  - DeathSE: {fileID: 8300000, guid: 50acf51e218f0ce459cdf9222aad7ecb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

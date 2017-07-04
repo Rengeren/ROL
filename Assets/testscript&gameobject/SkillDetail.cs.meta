@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dbd1b8fde9d6ae54f96032244dc6255a
+timeCreated: 1482818882
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - WhoseSkill: {instanceID: 0}
+  - SoundManager: {fileID: 1000013288476108, guid: 6e3901cf73f95354b8b37b48aefae99a,
+      type: 2}
+  - HitEffect: {instanceID: 0}
+  - HitSE: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

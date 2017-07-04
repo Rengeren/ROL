@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9f0ff022d622f31438d855c97d9cca72
+timeCreated: 1482823353
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PoisonMark: {fileID: 1000013052495184, guid: 5eab711da57d2044b9bfb0d817342f14,
+      type: 2}
+  - SoundManager: {fileID: 1000013288476108, guid: 6e3901cf73f95354b8b37b48aefae99a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

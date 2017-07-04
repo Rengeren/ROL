@@ -1,0 +1,46 @@
+fileFormatVersion: 2
+guid: a87aa7169c87a4840b9b97a67971301f
+timeCreated: 1486879438
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SwoonedMark: {fileID: 1000010315416742, guid: aecfc217c87b4ba44aa4555dfbdeb39d,
+      type: 2}
+  - ManjiX1: {fileID: 1000010375675232, guid: 393d886452776bf4a8cdce02edd2f40c, type: 2}
+  - ManjiX2: {fileID: 1000010375675232, guid: 67106536d658b264a9632a9e4dca93e0, type: 2}
+  - ManjiX_hit1: {fileID: 1000013221048086, guid: b4d49808eb580764d86fdaf2e85cba9a,
+      type: 2}
+  - ManjiX_hit2: {fileID: 1000011942569074, guid: 872bea32a120bb847adbaa9ca6c913eb,
+      type: 2}
+  - Normal_SE: {fileID: 8300000, guid: 2fdc5569e7d7f3042af671c605d7e423, type: 3}
+  - Normal_HitSE: {fileID: 8300000, guid: 09f310ce6483b4147836d3a2980a2ec8, type: 3}
+  - ManjiShift: {fileID: 1000014119731140, guid: 792863709fcbeb544b54ae57afe6ec8f,
+      type: 2}
+  - ManjiShift_hit: {fileID: 1000013358415818, guid: 7d8ab1ed8408b374cb76b8981ee62584,
+      type: 2}
+  - Shift_SE: {fileID: 8300000, guid: 0958c1ebf55c1e645a51706431cdc0c0, type: 3}
+  - Shift_HitSE: {fileID: 8300000, guid: f175630a9a4817344abdf5c52e0bc8f2, type: 3}
+  - ManjiZ: {fileID: 1000013689771922, guid: 9dcfec65e3276be48a3b8c0a68b4aee9, type: 2}
+  - ManjiZ_hit: {fileID: 1000010613760730, guid: 495c3b157e525c343a3ed10725517891,
+      type: 2}
+  - Z_SE: {fileID: 8300000, guid: 177845c7bb0143944ad544eec2a40901, type: 3}
+  - Z_HitSE: {fileID: 8300000, guid: d0a644970102f7f4eac2b2569e516cd9, type: 3}
+  - ManjiCtrl: {fileID: 1000011428118356, guid: 3d980ee40bc89224c9904d0751c2d3b4,
+      type: 2}
+  - ManjiCtrlBody: {fileID: 1000010490258436, guid: 1e56c1c1ecad5f44c89e5c241eb33dac,
+      type: 2}
+  - ManjiCtrl_hit: {fileID: 1000012042683050, guid: b8da8be7300e2444dbdaa41b8e56c910,
+      type: 2}
+  - Ctrl_SE: {fileID: 8300000, guid: 97c28f09f08ce5e4b83bb59b01241c97, type: 3}
+  - Ctrl_HitSE: {fileID: 8300000, guid: 4a717e37bf9f80c468b2f93c73f01cd6, type: 3}
+  - ManjiSpace: {fileID: 1000013697920614, guid: 0b2ef9a5894ddbc419325071db9432d0,
+      type: 2}
+  - ManjiSpaceAura: {fileID: 1000010522061934, guid: 79cb7177f08762a4cab37168f1473bd0,
+      type: 2}
+  - ManjiSpaceSE: {fileID: 8300000, guid: cc6ef53dd2511d14fb80f051258d7858, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

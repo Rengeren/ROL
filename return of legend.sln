@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2F6EEFB0-B75F-7D99-67D1-69404A9F430B}") = "return of legend", "Assembly-CSharp.csproj", "{127D828B-1EEB-85EC-FC83-42FE69893543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127D828B-1EEB-85EC-FC83-42FE69893543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127D828B-1EEB-85EC-FC83-42FE69893543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127D828B-1EEB-85EC-FC83-42FE69893543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127D828B-1EEB-85EC-FC83-42FE69893543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

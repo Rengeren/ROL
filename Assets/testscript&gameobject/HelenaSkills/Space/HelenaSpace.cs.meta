@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9d4d50d374020b740a22d34fa9ce9480
+timeCreated: 1484416189
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SEmanager: {fileID: 1000013288476108, guid: 6e3901cf73f95354b8b37b48aefae99a,
+      type: 2}
+  - Attack: {instanceID: 0}
+  - Eff: {instanceID: 0}
+  - Arrow: {fileID: 1000013620360232, guid: be95363ccd31e76428e488d8fe9f0004, type: 2}
+  - EndSE: {fileID: 8300000, guid: 200b3ef228af57f42bd27647f740eba0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

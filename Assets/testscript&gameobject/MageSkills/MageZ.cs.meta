@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3514f09a2791bd94ca93b7bfed022094
+timeCreated: 1483862334
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MageZ_end: {fileID: 1000014207902922, guid: 44033fb3a21f2c443a12f8a1040ad8c7,
+      type: 2}
+  - Z_EndSE: {fileID: 8300000, guid: f43b82f131314c14b92f986c49566ddc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

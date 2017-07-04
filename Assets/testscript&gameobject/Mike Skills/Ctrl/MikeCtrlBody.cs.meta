@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a70c48a460e4f39409a751fbe0258fd6
+timeCreated: 1481205638
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - CtrlBreak: {fileID: 1000014149362136, guid: be8e393d2c8391141acbb8e6f2c00e77,
+      type: 2}
+  - MikeCtrl_hit: {fileID: 1000013236453836, guid: 107ee66744571c14385e961d4fb89f05,
+      type: 2}
+  - Ctrl_HitSE: {fileID: 8300000, guid: 89e3f7edbaf00854a9f4c52b95ba2e2a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

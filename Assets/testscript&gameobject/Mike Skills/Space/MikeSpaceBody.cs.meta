@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6354892a861835941b0651713eeeff49
+timeCreated: 1481302151
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - SpaceBreak: {fileID: 1000013640815500, guid: 4e94493b92b192d4fab3859b9ca3243c,
+      type: 2}
+  - SpaceHeal: {fileID: 8300000, guid: e2c5d710ad9a3e649a009672c2a3fce8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

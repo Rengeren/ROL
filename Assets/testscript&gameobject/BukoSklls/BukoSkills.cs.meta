@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 3072b3684e233c5498abee65e2b75bd4
+timeCreated: 1483248505
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SlowMark: {instanceID: 0}
+  - BukoX1: {fileID: 1000013333241908, guid: 08ab2813badec824abed436d552221e0, type: 2}
+  - BukoX2: {fileID: 1000012814263118, guid: b60bb66bcaf8b5449ab74e3497a91d0f, type: 2}
+  - BukoX_hit: {fileID: 1000011325368014, guid: 4331dd6e49a39304db43917414726948,
+      type: 2}
+  - X_SE: {fileID: 8300000, guid: 37feb5a5f5e664b45902cca6a2c8a10d, type: 3}
+  - X_HitSE: {fileID: 8300000, guid: 36f9fc1f3f7b196429b8a81d883d4cc7, type: 3}
+  - BukoShift: {fileID: 1000012978516756, guid: 4f6908acea030264eb844b33e59146a3,
+      type: 2}
+  - BukoShift_hit: {fileID: 1000014006380072, guid: 420037de398496749be402dfff00b9cf,
+      type: 2}
+  - Shift_SE: {fileID: 8300000, guid: a8e5b883e2fb47a47aba23a9ceeccef0, type: 3}
+  - Shift_HitSE: {fileID: 8300000, guid: 2bbc039d6c565fd45a383135f998661c, type: 3}
+  - BukoZ: {fileID: 1000011792594182, guid: b9e3cdd8ae894ac4fac6356f69706b6c, type: 2}
+  - BukoZ_hit: {fileID: 1000014071743426, guid: 8abdeb6a2ceb88c4685a8e63402ac4c1,
+      type: 2}
+  - Z_HitSE: {fileID: 8300000, guid: fa65c66fc65f58543a2fbc5ba1f66b02, type: 3}
+  - BukoCtrl: {fileID: 1000010672358100, guid: 92e212fe15a65b8499ab67a9deb2cfd7, type: 2}
+  - BukoCtrlEff: {fileID: 1000011118019356, guid: bf675dc25d06d4f4ba80534487cf1df0,
+      type: 2}
+  - BukoCtrl_hit: {fileID: 1000011310351102, guid: fdf0c4171cd665048be9227f002b87b3,
+      type: 2}
+  - Ctrl_SE: {fileID: 8300000, guid: 6c2872ea31e72c2468ce1230c90a1f7d, type: 3}
+  - Ctrl_HitSE: {fileID: 8300000, guid: 74675dc61b2537d4686ff59b45f2a0c2, type: 3}
+  - BukoSpace: {fileID: 1000011235357952, guid: de270b761da6dcc41a00613fc221fe18,
+      type: 2}
+  - SpaceStart_SE1: {fileID: 8300000, guid: 22567b2b53f98494fa1378c30acccad0, type: 3}
+  - SpaceStart_SE2: {fileID: 8300000, guid: b4c7f0dab676ec3408713636f448bf08, type: 3}
+  - Space_HitSE: {fileID: 8300000, guid: 0fff84588aec7b84fa53fb40bd85832a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

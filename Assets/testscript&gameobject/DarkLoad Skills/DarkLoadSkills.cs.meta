@@ -1,0 +1,48 @@
+fileFormatVersion: 2
+guid: 6f47a94ce7d404a46a70b7dd6851eff4
+timeCreated: 1483042963
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Head: {instanceID: 0}
+  - InfirmeMark: {fileID: 1000012873628656, guid: f4acde8bb01c2fc4285daa50f6bf3e6e,
+      type: 2}
+  - DarkLoadX: {fileID: 1000010744087678, guid: b76fe30e124f5a443a4caaa56fffa1ee,
+      type: 2}
+  - XEff1: {fileID: 1000013897086272, guid: 815471b9bf9cf2840ba749b95216e324, type: 2}
+  - XEff2: {fileID: 1000011388653116, guid: 6068c68cde733de4792ee3787f6260d2, type: 2}
+  - X2Eff1: {fileID: 1000013316547530, guid: eaf309f44d8f8cf4b8cadb28a4b11406, type: 2}
+  - X2Eff2: {fileID: 1000014208993486, guid: 8e32675cd83419b45bcd202e308b29a3, type: 2}
+  - X_hit: {fileID: 1000012584824160, guid: cd0e1292df67ea942b9fd99cd537dcaf, type: 2}
+  - X_SE: {fileID: 8300000, guid: 7dcb249bcea2de449812c1e71d10ba00, type: 3}
+  - X_HitSE: {fileID: 8300000, guid: 18e135de27e9344448163675078a60c2, type: 3}
+  - DarkLoadX2: {fileID: 1000013330705586, guid: db9df453e766fe34ab52862b4f473138,
+      type: 2}
+  - X2_hit: {fileID: 1000013630958826, guid: 3a2b1b615f2f5a147a3e30369f2934cc, type: 2}
+  - X2_SE: {fileID: 8300000, guid: ab4269c1edd48b8449dc528fdb1ab864, type: 3}
+  - X2_HitSE: {fileID: 8300000, guid: d96f12edfed7f844092ab316b4bf06de, type: 3}
+  - DarkLoadZ: {fileID: 1000012576994654, guid: 60752a7687e3ea4478a563396ac0d5b1,
+      type: 2}
+  - Z_hit: {fileID: 1000011806662306, guid: 9e06524d2811ea84bb663eb0291c6a36, type: 2}
+  - Z_SE: {fileID: 8300000, guid: 7f111b98db72c7d45b574972f2003602, type: 3}
+  - Z_HitSE: {fileID: 8300000, guid: 8fb2fa0a29603ec498c1a1b54c334ddf, type: 3}
+  - DarkLoadCtrl: {fileID: 1000012263185318, guid: 00ab8cd2c8d24884d87d77efb93916b2,
+      type: 2}
+  - CtrlEff: {fileID: 1000010837889350, guid: a91cec7fdb06ff64689922e4b9b9e9b9, type: 2}
+  - Ctrl_hit: {fileID: 1000011209679602, guid: 6e2eaa0b5295adf4ead2049ab4b08581, type: 2}
+  - Ctrl_SE: {fileID: 8300000, guid: a2a4d1b22488a3d46a948e5ef689af44, type: 3}
+  - Ctrl_HitSE: {fileID: 8300000, guid: 4fefb5353ab16f840bf2de4735b6f739, type: 3}
+  - DarkLoadSpace_Start: {fileID: 1000012452392828, guid: 0e0db5f68b81ab149bc16c7fe6944a39,
+      type: 2}
+  - DarkLoadSpace: {fileID: 1000010731928300, guid: 2ee14202f376e0f48a87a6af23251ce9,
+      type: 2}
+  - Space_hit: {fileID: 1000013563126040, guid: 9c52d5d8f85909f42aeeb7a34ba7dc27,
+      type: 2}
+  - SpaceStart_SE: {fileID: 8300000, guid: 5692e83496922dd44919ba9acc240826, type: 3}
+  - Space_HitSE: {fileID: 8300000, guid: dd23cf6a597b4ab41bd0fcff42497480, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

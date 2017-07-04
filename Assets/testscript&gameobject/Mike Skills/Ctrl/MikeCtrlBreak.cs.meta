@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 032e3418e9064244199bd2fef3eae9a5
+timeCreated: 1486879588
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - MikeCtrl_hit: {fileID: 1000013236453836, guid: 107ee66744571c14385e961d4fb89f05,
+      type: 2}
+  - Ctrl_BreakSE: {fileID: 8300000, guid: 51209d4ca2321ff43802d27111d7e4a4, type: 3}
+  - Ctrl_HitSE: {fileID: 8300000, guid: 89e3f7edbaf00854a9f4c52b95ba2e2a, type: 3}
+  - SwoonedMark: {fileID: 1000010315416742, guid: aecfc217c87b4ba44aa4555dfbdeb39d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

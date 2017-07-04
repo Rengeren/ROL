@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28cded845f6d7cd459c488ddf1168743
+timeCreated: 1481108505
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - JumpSE: {fileID: 8300000, guid: 810a59ffc5b854846a01d1547d390982, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

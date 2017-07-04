@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ad6dddabf11ec3349a862f373d08881a
+timeCreated: 1483248613
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BukoSpace_hit1: {fileID: 1000013985290240, guid: af6c3817902c6d0449d31dc1962ed79f,
+      type: 2}
+  - BukoSpace_hit2: {fileID: 1000010822602082, guid: ebe59d59fe4ec3a4bb583f2e88692236,
+      type: 2}
+  - BukoSpace_hit3: {fileID: 1000013179186356, guid: 50b634044e8bfa54fa4a7980f21efa01,
+      type: 2}
+  - BukoSpace_hit4: {fileID: 1000013242399232, guid: b1b36cc236a25274cae43a6e37e12bd7,
+      type: 2}
+  - BukoSpace_hit5: {fileID: 1000011390722288, guid: 03112fb44fa61aa4984ead09197f8a4f,
+      type: 2}
+  - BukoSpace_hit6: {fileID: 1000012574949748, guid: 6a071a5068309cd4d8711fec66991951,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

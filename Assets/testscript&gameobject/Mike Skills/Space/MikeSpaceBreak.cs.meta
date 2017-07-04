@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 65e6c4847ef37714ea62249c509a78ed
+timeCreated: 1481302062
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - MikeSpace_hit: {fileID: 1000014084803030, guid: 1fdb0d7c9440b8b4ab5f2ed5fd3469ce,
+      type: 2}
+  - Space_BreakSE: {fileID: 8300000, guid: 46f962805a490c848a3c98bcb1c3b7b3, type: 3}
+  - Space_HitSE: {fileID: 8300000, guid: dddffde2cb6d23649b9d80b10f6b5407, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

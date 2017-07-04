@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: 18f7c9eb98edd2f44b8c27e0c63ed81c
+timeCreated: 1483890031
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MageX: {fileID: 1000010490686238, guid: 1282d308f4e69854ba15f4b371447cc0, type: 2}
+  - MageX_hit: {fileID: 1000011695033590, guid: 4e577ef141657b141854073a35cc0586,
+      type: 2}
+  - X_SE: {fileID: 8300000, guid: c93b8156ffe0a304db7acb23263266f0, type: 3}
+  - X_HitSE: {fileID: 8300000, guid: e64bc995860a6d342aafb0c74674483a, type: 3}
+  - MageShift: {fileID: 1000014115039412, guid: 4bc3ff1f42d8c0e4c8c30d132e631bfb,
+      type: 2}
+  - MageShift_hit: {fileID: 1000012880463512, guid: c9cb4878285df514b9eaa876367b38b5,
+      type: 2}
+  - Shift_SE: {fileID: 8300000, guid: 80a6bdb7ff7898042b7829b9d14bc727, type: 3}
+  - Shift_HitSE: {fileID: 8300000, guid: f5146bfbed14c844c9832f7a22cc92f1, type: 3}
+  - MageZ: {fileID: 1000012544204700, guid: e3a8e12c55897db4cb771e965e4f57b4, type: 2}
+  - MageZ_hit: {fileID: 1000010794849608, guid: aac9ac667fc5d6443be3fb0dddabf513,
+      type: 2}
+  - Z_SE: {fileID: 8300000, guid: 26e64cac4fab1d348b597698c2bfa9c1, type: 3}
+  - Z_HitSE: {fileID: 8300000, guid: 045a09b5a3948014dad84c72635a9e69, type: 3}
+  - MageCtrl: {fileID: 1000012317225660, guid: 6059ab8ba7705b048894404111aeace7, type: 2}
+  - MageCtrl_hit: {fileID: 1000014134702320, guid: b9bd9ca4bf7e4b347b4387f69927330d,
+      type: 2}
+  - Ctrl_SE: {fileID: 8300000, guid: fe748f34df0d6fe40bfdb7b2dc011654, type: 3}
+  - Ctrl_HitSE: {fileID: 8300000, guid: 4ef646b7fcf17fe4fa9f8dee57d3998e, type: 3}
+  - MageSpace: {fileID: 1000010329464030, guid: 71922a3dced01ba4f90add3fdab3110d,
+      type: 2}
+  - MageSpace_hit: {fileID: 1000011532577920, guid: 5716214dc823b624eb93b829e13a060e,
+      type: 2}
+  - Space_SE: {fileID: 8300000, guid: 3e30fdecb6058064a8d301fcd3c42b8b, type: 3}
+  - Space_HitSE: {fileID: 8300000, guid: d772193cc586de54fbb43d998ed4cf5b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
